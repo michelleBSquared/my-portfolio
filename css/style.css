@@ -5,15 +5,15 @@
 }
 /* Custom Properties */
 :root {
-  --ff-primary: "Source Sans Pro", sans-serif;
-  --ff-secondary: "Source Code Pro", monospace;
+  --ff-primary: "Roboto", sans-serif;
+  --ff-secondary: "Oxanium", cursive;
 
-  --fw-reg: 300;
-  --fw-bold: 900;
+  --fw-reg: 400;
+  --fw-bold: 700;
 
   --clr-light: #fff;
   --clr-dark: #303030;
-  --clr-accent: #16e0bd;
+  --clr-accent: #00adef;
 
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
@@ -125,7 +125,7 @@ header {
   padding: 1em;
 }
 .logo {
-  max-width: 100px;
+  max-width: 250px;
 }
 .nav {
   position: fixed;
